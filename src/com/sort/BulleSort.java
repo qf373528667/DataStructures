@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class BulleSort {
 
 	public static void main(String[] args) {
-
+		System.out.println("left");
 		//int [] arr={89,23,47,5,9};
 		int[] arr=new int[80000];
 		for(int i=0;i<80000;i++){
